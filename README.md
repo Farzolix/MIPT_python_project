@@ -13,7 +13,3 @@
 ## Установка
 ### Требования
 - Python 3.7 или выше- Операционная система: Windows, macOS или Linux
-### Шаги установки
-1. Клонируйте репозиторий
-   ```bash
-   git clone https://github.com/your_username/task-tracker.git   cd task-tra
